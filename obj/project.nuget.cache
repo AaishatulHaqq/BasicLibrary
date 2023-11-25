@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMrIk0Atyf03DrxhNtNSyboy+o8PbNH93ZKdjl+RZxPMLYL12+j7rWmMLELZgVIpAnygE/d7BZzFwph8TgNeJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\BasicLibrary\\BasicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\consoletable\\1.0.1.1\\consoletable.1.0.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
